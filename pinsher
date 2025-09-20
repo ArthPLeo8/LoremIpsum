@@ -1,0 +1,33 @@
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="keyword" content="IFTM,escola,sistemas,pinscher">
+        <meta name="author" content="Arthur Leonnardo Botelho Silva">
+        <meta name="description" content="PARA A LISTA 3.">
+        <meta name="generator" content="Visual Studio Code">
+        <!--comentário secreto-->
+    </head>
+    <body style="background-color: #90cae0">
+        <title>Raça de cachorro Pinscher</title>
+        <center><h1 style="color:#fd4e85"><font face="Arial"><b> 🐾 PINSCHER 🐾</b></font></h1></center>
+        <h3><a href="https://arthpleo8.free.nf/atividade3.html">VOLTAR</a></h3>
+        <img src="P.de.lado.jpeg" alt="Pinscher(1)" style="width:30%" align="right">
+        <br>
+        <p><h3 style="color: #000000"><font face="Arial"> Com porte atlético apesar do tamanho, o Pinscher é cheio de energia e vive correndo para todos os lados com agilidade. Sempre atento a tudo o que está acontecendo em sua casa e com quem ele ama, esse cachorrinho adora se divertir e brincar com a família humana. </font></h3></p>
+        <br>
+        <p><h3 style="color: #000000"><font face="Arial"> O Pinscher é bravo com pessoas desconhecidas, podendo ser flexível e mais tranquilo com quem convive diariamente. A raça possui senso de cão de guarda e instinto protetor, por isso, é um tipo de pet que late bastante, como forma de proteção. </font></h3></p>
+        <h3><details type="disc">
+            <summary style="color: #000000">  Características da raça:</summary>
+            <ul>
+                <li style="color:#fd4e85"><b style="color: #000000">Expectativa de vida</b>
+<p style="color: #000000">15 anos</p></li><br>               
+                <li style="color:#fd4e85"><b style="color: #000000">Média de altura</b>
+<p style="color: #000000">30 centimetros</p></li>
+                <li style="color:#fd4e85"><b style="color: #000000">Média de peso</b>
+<p style="color: #000000">6 Quilos</p></li><br>
+            </ul>
+        </details></h3>
+        <br>
+        <center><img src="Pinshe.jpeg" alt="Pinscher(2)" style="width:30%"></center>
+    </body>
+</html>
